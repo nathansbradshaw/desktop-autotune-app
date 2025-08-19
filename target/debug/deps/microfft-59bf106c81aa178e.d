@@ -1,0 +1,12 @@
+/home/nathan/Documents/GitHub/synthphone_vocals/desktop-autotune-app/target/debug/deps/libmicrofft-59bf106c81aa178e.rmeta: /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/microfft-0.6.0/src/lib.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/microfft-0.6.0/src/complex.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/microfft-0.6.0/src/inverse.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/microfft-0.6.0/src/real.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/microfft-0.6.0/src/impls/cfft.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/microfft-0.6.0/src/impls/ifft.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/microfft-0.6.0/src/impls/rfft.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/microfft-0.6.0/src/tables.rs
+
+/home/nathan/Documents/GitHub/synthphone_vocals/desktop-autotune-app/target/debug/deps/microfft-59bf106c81aa178e.d: /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/microfft-0.6.0/src/lib.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/microfft-0.6.0/src/complex.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/microfft-0.6.0/src/inverse.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/microfft-0.6.0/src/real.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/microfft-0.6.0/src/impls/cfft.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/microfft-0.6.0/src/impls/ifft.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/microfft-0.6.0/src/impls/rfft.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/microfft-0.6.0/src/tables.rs
+
+/home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/microfft-0.6.0/src/lib.rs:
+/home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/microfft-0.6.0/src/complex.rs:
+/home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/microfft-0.6.0/src/inverse.rs:
+/home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/microfft-0.6.0/src/real.rs:
+/home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/microfft-0.6.0/src/impls/cfft.rs:
+/home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/microfft-0.6.0/src/impls/ifft.rs:
+/home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/microfft-0.6.0/src/impls/rfft.rs:
+/home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/microfft-0.6.0/src/tables.rs:

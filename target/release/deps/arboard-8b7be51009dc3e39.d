@@ -1,0 +1,11 @@
+/home/nathan/Documents/GitHub/synthphone_vocals/desktop-autotune-app/target/release/deps/libarboard-8b7be51009dc3e39.rmeta: /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/lib.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/common.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/platform/mod.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/platform/linux/mod.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/platform/linux/x11.rs
+
+/home/nathan/Documents/GitHub/synthphone_vocals/desktop-autotune-app/target/release/deps/libarboard-8b7be51009dc3e39.rlib: /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/lib.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/common.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/platform/mod.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/platform/linux/mod.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/platform/linux/x11.rs
+
+/home/nathan/Documents/GitHub/synthphone_vocals/desktop-autotune-app/target/release/deps/arboard-8b7be51009dc3e39.d: /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/lib.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/common.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/platform/mod.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/platform/linux/mod.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/platform/linux/x11.rs
+
+/home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/lib.rs:
+/home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/common.rs:
+/home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/platform/mod.rs:
+/home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/platform/linux/mod.rs:
+/home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/arboard-3.6.0/src/platform/linux/x11.rs:

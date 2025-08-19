@@ -1,0 +1,11 @@
+/home/nathan/Documents/GitHub/synthphone_vocals/desktop-autotune-app/target/debug/deps/libegui_glow-0d7074a0478c3972.rmeta: /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/lib.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/painter.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/misc_util.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/shader_version.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/vao.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/shader/vertex.glsl /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/shader/fragment.glsl
+
+/home/nathan/Documents/GitHub/synthphone_vocals/desktop-autotune-app/target/debug/deps/egui_glow-0d7074a0478c3972.d: /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/lib.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/painter.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/misc_util.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/shader_version.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/vao.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/shader/vertex.glsl /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/shader/fragment.glsl
+
+/home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/lib.rs:
+/home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/painter.rs:
+/home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/misc_util.rs:
+/home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/shader_version.rs:
+/home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/vao.rs:
+/home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/shader/vertex.glsl:
+/home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/egui_glow-0.24.1/src/shader/fragment.glsl:

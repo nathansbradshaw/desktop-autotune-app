@@ -1,0 +1,49 @@
+[package]
+name = "desktop-autotune-app"
+version = "0.1.0"
+edition = "2021"
+description = "Desktop application for autotuning WAV files using synthphone_vocals library"
+license = "MIT"
+
+[[bin]]
+name = "autotune-gui"
+path = "src/main.rs"
+
+[[bin]]
+name = "autotune-cli"
+path = "src/cli_main.rs"
+
+[dependencies]
+# Autotune library with std features for desktop
+synthphone_vocals = { path = "..", features = ["std"] }
+
+# GUI framework
+eframe = "0.24"
+egui = "0.24"
+egui_extras = "0.24"
+
+# Audio file handling
+hound = "3.5"
+
+# File dialogs
+rfd = "0.12"
+
+# Error handling
+anyhow = "1.0"
+thiserror = "1.0"
+
+# Command line argument parsing
+clap = { version = "4.0", features = ["derive"] }
+
+# Async runtime for file operations
+tokio = { version = "1.0", features = ["full"] }
+
+# Progress tracking
+indicatif = "0.17"
+
+# Logging
+env_logger = "0.10"
+log = "0.4"
+
+[dev-dependencies]
+approx = "0.5"

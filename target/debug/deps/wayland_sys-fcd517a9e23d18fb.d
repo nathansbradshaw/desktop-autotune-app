@@ -1,0 +1,11 @@
+/home/nathan/Documents/GitHub/synthphone_vocals/desktop-autotune-app/target/debug/deps/libwayland_sys-fcd517a9e23d18fb.rmeta: /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.30.1/src/lib.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.30.1/src/common.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.30.1/src/client.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.30.1/src/server.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.30.1/src/egl.rs
+
+/home/nathan/Documents/GitHub/synthphone_vocals/desktop-autotune-app/target/debug/deps/libwayland_sys-fcd517a9e23d18fb.rlib: /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.30.1/src/lib.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.30.1/src/common.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.30.1/src/client.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.30.1/src/server.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.30.1/src/egl.rs
+
+/home/nathan/Documents/GitHub/synthphone_vocals/desktop-autotune-app/target/debug/deps/wayland_sys-fcd517a9e23d18fb.d: /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.30.1/src/lib.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.30.1/src/common.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.30.1/src/client.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.30.1/src/server.rs /home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.30.1/src/egl.rs
+
+/home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.30.1/src/lib.rs:
+/home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.30.1/src/common.rs:
+/home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.30.1/src/client.rs:
+/home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.30.1/src/server.rs:
+/home/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.30.1/src/egl.rs:
