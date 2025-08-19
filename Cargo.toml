@@ -15,7 +15,9 @@ path = "src/cli_main.rs"
 
 [dependencies]
 # Autotune library with std features for desktop
-synthphone_vocals = { path = "..", features = ["std"] }
+synthphone_vocals = { git = "https://github.com/nathansbradshaw/synthphone_vocals", features = [
+    "std",
+] }
 
 # GUI framework
 eframe = "0.24"

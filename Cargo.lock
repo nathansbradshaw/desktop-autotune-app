@@ -3073,6 +3073,7 @@ dependencies = [
 [[package]]
 name = "synthphone_vocals"
 version = "0.1.1"
+source = "git+https://github.com/nathansbradshaw/synthphone_vocals#db13a341eb99b4b40d069f21387c2640f7f8abb7"
 dependencies = [
  "cortex-m",
  "libm",
